@@ -1,10 +1,6 @@
- 1. 资源已本地化
- 2. 永久免费使用
- 3. 支持Centos7.x系统
- 4. 持续更新ing...
 
 ## 一键脚本： ##
-    wget --no-check-certificate https://git.oschina.net/marisn/vpns/raw/master/vpns.sh&&chmod +x vpns.sh&&bash vpns.sh
+    wget --no-check-certificate https://raw.githubusercontent.com/guaotiantang/vpns/master/vpns.sh&&chmod +x vpns.sh&&bash vpns.sh
 
 ## 部分截图： ##
 
